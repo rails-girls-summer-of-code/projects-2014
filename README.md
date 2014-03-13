@@ -1,8 +1,8 @@
 Possible projects
 ========
 
-You can find last year's projects [here](http://2013.teams.railsgirlssummerofcode.org/teams).
--
+*You can find last year's projects [here](http://2013.teams.railsgirlssummerofcode.org/teams).*
+
 
 Do you run an Open Source project? We would love to see you involved in
 Rails Girls Summer of Code!
