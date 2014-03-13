@@ -36,4 +36,4 @@ them to accomplish their tasks), so the workload for a mentor is limited.
 
 Register your project now and open a new issue in this repository.
 
-You can find last years projects [here](http://2013.teams.railsgirlssummerofcode.org/teams) and examples of projects and possible goals on [last year's wiki](https://github.com/RailsGirlsBerlin/summer-of-code/wiki/Project-ideas). 
+You can find last years projects [here](http://2013.teams.railsgirlssummerofcode.org/teams) and examples of projects and possible goals on [last year's wiki](https://github.com/rails-girls-summer-of-code/summer-of-code/wiki/Project-ideas). 
