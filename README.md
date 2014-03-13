@@ -1,4 +1,4 @@
-Possible projects
+Projects Proposals for RGSoC 2014
 ========
 
 *You can find last year's projects [here](http://2013.teams.railsgirlssummerofcode.org/teams).*
