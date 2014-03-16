@@ -40,5 +40,5 @@ workload for project mentor is limited.
 ### Resources
 
 * Blog post: [Examples from last year's teams](http://railsgirlssummerofcode.org/blog/where-to-start)
-* [2013 teams application](http://2013.teams.railsgirlssummerofcode.org/teams)
+* 2013 [teams application](http://2013.teams.railsgirlssummerofcode.org/teams)
 * 2013 [project proposal wiki page](https://github.com/rails-girls-summer-of-code/summer-of-code/wiki/Project-ideas). 
